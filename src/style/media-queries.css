@@ -1,0 +1,354 @@
+@media screen and (max-width: 980px) {
+
+/* =============== GLOBAL =============== */
+
+    .container {
+        display: block;
+    }  
+
+    .global {
+        padding: 50px 12px 0;
+    }
+
+    .main-title img {
+        width: 40px;
+        height: 40px;
+    }
+      
+    .main-title h1 {
+        font-size: 1.6rem;
+        line-height: 3rem;
+    }
+
+/* =============== NAV ================ */
+
+  .navbar nav {
+    background-color: var(--clear-blue);
+    padding: 10px 0;
+  } 
+  
+  .navbar a {
+    line-height: 30px;
+    font-size: 1rem;
+    margin: 6px;
+    padding: 0 10px;
+    border-radius: 15px;
+  }
+  
+  .navbar .arrow a {
+    width: 30px;
+    height: 30px; 
+  }
+
+/* =============== SIDE BAR =============== */
+
+    #side-bar {
+        padding: 25px 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #global-id {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    #global-id > div {
+        margin:0;
+    }
+
+    #photo-id {
+        width: 150px;
+        height: 150px;
+    }
+
+    #title-id {
+        border-top: 0;
+        border-bottom: 0;
+        padding: 0;
+    }
+
+    #title-id h1 {
+        text-align: left;
+    }
+
+    #contact {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #contact > div {
+        flex: 0 1 300px;
+        margin: 4px 6px;
+        justify-content: center;
+    }
+/* ================ PRESENTATION =============== */
+
+  #presentation p {
+    font-size : 1rem;
+    line-height: 1.3rem;
+    text-indent: 2rem;
+    margin: 10px 30px;
+  }
+  
+  #presentation p:first-of-type {
+    margin-top: 30px;
+  }
+  
+  #presentation p:last-of-type {
+    margin-bottom: 30px;
+  }
+
+  /* =============== EXPERIENCE / FORMATION =============== */
+
+  .exp-form:first-of-type {
+    margin: 30px 20px 20px 20px;
+  }
+  
+  .exp-form {
+    background-color: var(--cream-color);
+    margin: 20px;
+  }
+  
+  .exp-form h2 {
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+  }
+  
+/* ================= TECHNOLOGIES ================= */
+
+#technos ul {
+    margin: 10px 0;
+  }
+  
+  #technos li {
+    flex: 1 1 350px;
+    margin: 6px 12px;
+    padding: 3px 0 3px 12px;
+  }
+  
+  #technos li img {
+    width: 35px;
+    height: 35px;
+  }
+  
+  #technos li .pixel  {
+    width: 35px;
+    height: auto;
+  }
+  
+  #technos li p {
+    flex:  1 80px;
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (max-width: 660px) {
+
+/* ===================== NAVBAR PLIABLE =====================*/
+
+    .navbar nav {
+        padding: 0;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+        position: absolute;
+        z-index: -1;
+        width: 100%;
+        top: -205px;
+        padding: 5px 0;
+        background-color: var(--clear-blue);
+        transition: top 0.5s;
+    }
+
+    .navbar li a {
+      width: 150px;
+      text-align: center;
+    }
+
+    .navbar .open {
+        top: 45px;
+    }
+
+    .arrow {
+        position: relative;
+        z-index: 1;
+        background-color: var(--clear-blue);
+        padding: 8px 16px;
+    }
+
+    #burger {
+        position: relative;
+        z-index: 1;
+        flex: 1 1 auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--clear-blue);
+        padding: 8px 0;
+    }
+
+    #burger img {
+        width: 30px;
+        height: 30px;
+    }
+
+     #burger img:hover {
+         cursor: pointer;
+     }
+
+     .global {
+       padding: 30px 0 8px;
+     }
+
+}
+
+@media screen and (max-width: 560px) {
+
+  /* ================ GLOBAL ================= */
+
+  .content {
+    margin: 8px;
+  }
+
+  .main-title h1 {
+    font-size: 1.4rem;
+    line-height: 2.2rem;
+  }
+
+  .main-title img {
+    width: 30px;
+    height: 30px;
+    margin: 0 15px 0 15px;
+  }
+
+  /* ================= SIDE BAR ================== */
+
+    #side-bar {
+        padding: 20px 0;
+    }
+
+    #global-id {
+        margin-bottom: 20px;
+    }
+
+    #photo-id {
+        width: 80px;
+        height: 80px;
+    }
+
+    #title-id h1 {
+        font-size: 1.2rem;
+        line-height: 1.3rem;
+    }
+
+    #title-id h1 span {
+      font-size: 1.1rem;
+    }
+
+    #contact > div {
+        flex: 0 1 300px;
+        margin: 3px 3px;
+        padding: 8px 6px;
+        justify-content: left;
+    }
+
+    #contact p {
+      font-size: 1rem;
+      margin-left: 8px;
+    }
+    
+    #contact img {
+      width: 18px;
+      height: 18px;
+    } 
+
+/* ================== PRESENTATION ================= */
+
+    #presentation p {
+      margin: 10px;
+    }
+
+/* ================== EXPERIENCE / FORMATION ================ */
+
+    .exp-form {
+      margin: 8px;
+    }
+
+    .exp-form:first-of-type {
+      margin: 16px 8px 8px 8px;
+    }
+
+    .exp-form h2 {
+      font-size: 1rem;
+      line-height: 1.2rem;
+      text-indent: 0;
+      padding: 5px 10px;
+    }
+
+    .exp-form p:last-of-type {
+      margin-bottom: 8px;
+    }
+
+/* =================== REALISATIONS =================== */
+
+    .realisations {
+      margin: 8px;
+    }
+
+    .realisations:first-of-type {
+      margin: 16px 8px 8px 8px;
+    }
+
+    .realisations:last-of-type {
+      margin: 8px 8px 16px 8px;
+    }
+
+    .realisations > div {
+      padding: 10px;
+    }
+
+    .realisations p {
+      line-height: 35px;
+    }
+
+
+/* =================== TECHNOLOGIES ================== */
+
+  #technos li {
+    margin: 3px 6px;
+    padding: 0 3px 0 12px;
+  } 
+  
+  #technos li img {
+    width: 30px;
+    height: 30px;
+  }
+
+  #technos li div {
+    flex: 0 0 40px;
+  }
+
+  #technos li p {
+    flex: 1 1 auto;
+    font-size: 1.1rem;
+  }
+
+  #technos .level {
+    flex: 0 1 100px;
+    line-height: 50px;
+  }
+
+  @media screen and (max-width: 380px) {
+
+    .long-title span{
+      display: none;
+    }
+  }
+
+}
