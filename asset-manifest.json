@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.36d74262.css",
-    "main.js": "/cv/static/js/main.701f7354.js",
+    "main.css": "/cv/static/css/main.f1f53c54.css",
+    "main.js": "/cv/static/js/main.62c88733.js",
     "static/media/site-perso.jpg": "/cv/static/media/site-perso.c3e3c4374acf88e558d9.jpg",
     "static/media/site-atelier3d.jpg": "/cv/static/media/site-atelier3d.10245d33cb87f00ccb9e.jpg",
     "static/media/site-photos.jpg": "/cv/static/media/site-photos.320d62b2a0fce2caf9cc.jpg",
@@ -40,11 +40,11 @@
     "static/media/linkedin.svg": "/cv/static/media/linkedin.2747a17a57b0584bbb7daf7c76a42bf7.svg",
     "static/media/email.svg": "/cv/static/media/email.8be43040975008e6ea1c279c25b6e1e4.svg",
     "static/media/round-black-right-arrow.svg": "/cv/static/media/round-black-right-arrow.2582a8e2b607a853946fdd5dcbac163e.svg",
-    "main.36d74262.css.map": "/cv/static/css/main.36d74262.css.map",
-    "main.701f7354.js.map": "/cv/static/js/main.701f7354.js.map"
+    "main.f1f53c54.css.map": "/cv/static/css/main.f1f53c54.css.map",
+    "main.62c88733.js.map": "/cv/static/js/main.62c88733.js.map"
   },
   "entrypoints": [
-    "static/css/main.36d74262.css",
-    "static/js/main.701f7354.js"
+    "static/css/main.f1f53c54.css",
+    "static/js/main.62c88733.js"
   ]
 }
