@@ -201,15 +201,15 @@ body {
   font-size : 1.1rem;
   line-height: 1.4rem;
   text-indent: 2.2rem;
-  margin: 12px 50px;
+  margin: 12px 100px;
 }
 
 #presentation p:first-of-type {
-  margin-top: 50px;
+  margin-top: 80px;
 }
 
 #presentation p:last-of-type {
-  margin-bottom: 50px;
+  margin-bottom: 120px;
 }
 
 /* ====================== EXPERIENCE / FORMATION ===================== */
