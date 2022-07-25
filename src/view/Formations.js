@@ -3,7 +3,7 @@ import openBook from "../icones/open-book.svg";
 export default () => (
     <div className="content main">
         <div className="main-title" >
-            <img src={openBook} /><h1>Formations</h1>
+            <img src={openBook} /><h1>Formation</h1>
         </div>
         <div>
             <div className="exp-form">

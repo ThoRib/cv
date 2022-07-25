@@ -80,7 +80,7 @@ export default () => (
             <li>
                 <div><img src={symfony} alt="logo symfony" /></div>
                 <p>Symfony</p>
-                <span className="level l0"></span>
+                <span className="level l3"></span>
             </li>
             <li>
                 <div><img src={mysql} alt="logo mysql" /></div>

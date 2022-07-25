@@ -53,7 +53,7 @@ export default () => {
                 <ul id="retractable">
                     <li><NavLink to={allPages[0]} onClick={()=> afterBefore(0)}>Présentation</NavLink></li>
                     <li><NavLink to={allPages[1]} onClick={()=> afterBefore(1)}>Expérience</NavLink></li>
-                    <li><NavLink to={allPages[2]} onClick={()=> afterBefore(2)}>Formations</NavLink></li>
+                    <li><NavLink to={allPages[2]} onClick={()=> afterBefore(2)}>Formation</NavLink></li>
                     <li><NavLink to={allPages[3]} onClick={()=> afterBefore(3)}>Réalisations</NavLink></li>
                     <li><NavLink to={allPages[4]} onClick={()=> afterBefore(4)}>Technologies</NavLink></li>
                 </ul>
