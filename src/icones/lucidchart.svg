@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+   style="fill:none"
+   id="svg933"
+   version="1.1"
+   viewBox="0 0 23 27"
+   height="27"
+   width="23">
+  <defs
+     id="defs937" />
+  <path
+     style="fill:#f96b13"
+     id="path917"
+     d="M 0,6.75488 V 20.2549 L 11.5,27 V 23.6323 L 2.875,18.5613 V 8.43873 Z" />
+  <path
+     style="fill:#cc4e00"
+     id="path919"
+     d="M 20.125,8.43873 V 21.9387 L 23,20.2549 V 6.75488 Z" />
+  <path
+     style="fill:#ffca73"
+     id="path921"
+     d="M 8.625,1.68385 20.125,8.43872 23,6.75487 11.5,0 Z" />
+  <path
+     style="fill:#ffca73"
+     id="path923"
+     d="M 0,6.75486 2.875,8.43872 5.75,6.75486 2.875,5.06128 Z" />
+  <path
+     style="fill:#cc4e00"
+     id="path925"
+     d="M 2.875,8.43873 V 18.5613 L 5.75,16.8774 V 6.75488 Z" />
+  <path
+     style="fill:#cc4e00"
+     id="path927"
+     d="M 11.5,23.6323 V 27 l 2.875,-1.6838 v -3.3775 z" />
+  <path
+     style="fill:#ffca73"
+     id="path929"
+     d="M 2.875,18.5613 11.5,23.6323 14.375,21.9387 5.75,16.8774 Z" />
+  <path
+     style="fill:#f96b13"
+     id="path931"
+     d="m 8.625,1.68384 v 3.37743 l 8.625,5.06133 v 10.1323 l 2.875,1.6838 v -13.5 z" />
+</svg>

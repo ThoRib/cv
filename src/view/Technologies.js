@@ -12,7 +12,7 @@ import symfony from "../icones/symfony.svg";
 import mysql from "../icones/mysql.svg";
 import git from "../icones/git.svg";
 import ubuntu from "../icones/ubuntu.svg";
-import moqups from "../icones/moqups.svg";
+import lucidchart from "../icones/lucidchart.svg";
 import illustrator from "../icones/illustrator.svg";
 import inkscape from "../icones/inkscape.jpeg";
 import photoshop from "../icones/photoshop.svg";
@@ -70,7 +70,7 @@ export default () => (
             <li>
                 <div><img src={react} alt="logo react" /></div>
                 <p>React</p>
-                <span className="level l2"></span>
+                <span className="level l1"></span>
             </li>
             <li>
                 <div><img src={php} alt="logo php" /></div>
@@ -80,12 +80,12 @@ export default () => (
             <li>
                 <div><img src={symfony} alt="logo symfony" /></div>
                 <p>Symfony</p>
-                <span className="level l3"></span>
+                <span className="level l2"></span>
             </li>
             <li>
                 <div><img src={mysql} alt="logo mysql" /></div>
-                <p>MySQL / SQL</p>
-                <span className="level l3"></span>
+                <p>SQL</p>
+                <span className="level l2"></span>
             </li>
             <li>
                 <div><img src={git} alt="logo git" /></div>
@@ -94,13 +94,13 @@ export default () => (
             </li>
             <li>
                 <div><img src={ubuntu} alt="logo ubuntu" /></div>
-                <p>Ubuntu</p>
-                <span className="level l3"></span>
+                <p>Linux</p>
+                <span className="level l2"></span>
             </li>
             <li>
-                <div><img src={moqups} alt="logo moqups" /></div>
-                <p>Moqups</p>
-                <span className="level l1"></span>
+                <div><img src={lucidchart} alt="logo moqups" /></div>
+                <p>Lucidchart</p>
+                <span className="level l2"></span>
             </li>
             <li>
                 <div><img src={illustrator} alt="logo illustrator" /></div>

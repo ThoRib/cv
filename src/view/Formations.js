@@ -7,14 +7,14 @@ export default () => (
         </div>
         <div>
             <div className="exp-form">
-                <h2>Opquast - Qualité Web</h2>
-                <p>Mars 2022</p>
-                <p>Certification expert qualité web</p>
-            </div>
-            <div className="exp-form">
                 <h2>Next Formation - Développeur Web et Web Mobile - RNCP</h2>
                 <p>février 2022 - septembre 2022</p>
                 <p>JavaScript - jQuery - Bootstrap - React - React Native - Node JS - PHP - PHP Objet - Symfony - Git</p>
+            </div>
+            <div className="exp-form">
+                <h2>Opquast - Qualité Web</h2>
+                <p>Mars 2022</p>
+                <p>Certification expert qualité web</p>
             </div>
             <div className="exp-form">
                 <h2>Next Formation - Infographiste Multimédia 3D - RNCP</h2>

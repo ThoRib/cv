@@ -5,10 +5,11 @@ export default () => (
         <div className="main-title" >
             <img src={howTo} /><h1>Présentation</h1>
         </div>
-        <div>   
-            <p>Achevant actuellement une formation Développeur Web et Web Mobile auprès de l'organisme Nextformation, j'ai suivi ce cursus dans le cadre d'une reconversion professionnelle.</p>
-            <p>Au cours d'une précédente activité  en micro entreprise, j'ai eu l'opportunité de concevoir et développer des sites vitrines pour différents clients. Cela m'a permis d'acquérir plus d'expérience en design web, en intégration HTML/CSS et en programmation JavaScript et PHP. J'ai également poursuivi l'apprentissage du développement de manière  autodidacte en élaborant quelques projets personnels de sites dynamiques.</p>
-            <p>Une formation suivit auparavant en multimédia et intégration HTML, CSS et jQuery m’avait permis d’acquérir de premières compétences web.  Le cursus  actuel me permet d’étendre mes connaissances en développement, back-end et front-end avec JavaScript, PHP, SQL, HTML, CSS, Bootstrap. Je fait également l'apprentissage des frameworks NodesJS, React, React Native, Symfony. Intensément utilisés dans l'écosystème technologique web actuel, ceux-ci me permettent d'amener mes connaissances à un niveau professionnel.</p>
+        <div>
+            <p>Une première expérience en conception et développement web m'a permis de réaliser quelques sites web vitrines. Cela fut également l'occasion d'apprendre en autodidacte les langages PHP, SQL et JavaScript. Ceux-ci m'ont permis d'apporter du dynamisme à mes projets.</p>
+            <p>Une formation suivie auparavent en multimédia m'avait permis d'acquérir une bonne maitrise des langages HTML et CSS. J'ai souhaité alors renforcer et étendre mes connaissances en suivant une nouvelle formation consacrée au développement web.</p>
+            <p>Lors de celle-ci j'ai pu confirmer mes bases acquises auparavent en PHP et JavaScript mais également faire l'apprentissage des frameworks React, React Native, Symfony ainsi que la plateforme de développement Node.js.</p>
+            <p>Fort de ces nouvelles compétences, je souhaiterais désormais les mettre à profit en rejoignant une équipe de développement web. Cela serait également pour moi l'opportunité d'acquérir davantage de pratique.</p> 
         </div>
     </div>
 );
