@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cv/static/css/main.26a75ea3.css",
-    "main.js": "/cv/static/js/main.6eae82f7.js",
+    "main.js": "/cv/static/js/main.672b23b8.js",
     "static/media/site-perso.jpg": "/cv/static/media/site-perso.c3e3c4374acf88e558d9.jpg",
     "static/media/site-atelier3d.jpg": "/cv/static/media/site-atelier3d.10245d33cb87f00ccb9e.jpg",
     "static/media/site-photos.jpg": "/cv/static/media/site-photos.320d62b2a0fce2caf9cc.jpg",
@@ -11,7 +11,6 @@
     "static/media/mysql.svg": "/cv/static/media/mysql.7618eff6c7997ea6f658486afebb98ce.svg",
     "static/media/sass.svg": "/cv/static/media/sass.ed09886ca77b26707df68f9bd50ad8a0.svg",
     "static/media/react.svg": "/cv/static/media/react.dc8286ed366fdc8741e3962b714d828a.svg",
-    "static/media/moqups.svg": "/cv/static/media/moqups.6e683d24df5f21d01627ab8b4358c68c.svg",
     "static/media/php.svg": "/cv/static/media/php.829db1aefc3c40aab63a068c2273e822.svg",
     "static/media/css.svg": "/cv/static/media/css.dbd31fe14ec796185689723739441965.svg",
     "static/media/phone-outline.svg": "/cv/static/media/phone-outline.5baad475495e6a9208145137cc9184c6.svg",
@@ -31,6 +30,7 @@
     "static/media/coding.svg": "/cv/static/media/coding.51a3c9addfb3f239a3a2938c29aece5a.svg",
     "static/media/javascript.svg": "/cv/static/media/javascript.bc5f02e5c6760711d96aef07a21f15cc.svg",
     "static/media/html.svg": "/cv/static/media/html.115310285b7fd7194c7afea2c04ec0f7.svg",
+    "static/media/lucidchart.svg": "/cv/static/media/lucidchart.05f4406ac7d2dcfa88ea1d13bfee451c.svg",
     "static/media/illustrator.svg": "/cv/static/media/illustrator.a7a02e07de1f428028102a5f4c6760de.svg",
     "static/media/website.svg": "/cv/static/media/website.fe30c8ad45a544c63b0763566c7e7cb2.svg",
     "static/media/git.svg": "/cv/static/media/git.143dd7d5c20a072304a86209df0583f2.svg",
@@ -41,10 +41,10 @@
     "static/media/email.svg": "/cv/static/media/email.8be43040975008e6ea1c279c25b6e1e4.svg",
     "static/media/round-black-right-arrow.svg": "/cv/static/media/round-black-right-arrow.2582a8e2b607a853946fdd5dcbac163e.svg",
     "main.26a75ea3.css.map": "/cv/static/css/main.26a75ea3.css.map",
-    "main.6eae82f7.js.map": "/cv/static/js/main.6eae82f7.js.map"
+    "main.672b23b8.js.map": "/cv/static/js/main.672b23b8.js.map"
   },
   "entrypoints": [
     "static/css/main.26a75ea3.css",
-    "static/js/main.6eae82f7.js"
+    "static/js/main.672b23b8.js"
   ]
 }
