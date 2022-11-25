@@ -11,7 +11,7 @@ export default () => (
                 <img src={photoId} alt="photo identité" />
             </div>
             <div id="title-id">   
-                <h1>Thomas Ribardière<br /><span>Développeur Web</span></h1>
+                <h1>Thomas Ribardière<br /><span>Développeur Web<br />Webmaster</span></h1>
             </div>
         </div>
         <div id="contact">
