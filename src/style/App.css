@@ -1,8 +1,8 @@
 body {
-  --middle-blue: #295380;
+  --middle-blue: #105095;
   --clear-blue: #73bdea;
   --dark-blue: #06224d;
-  --cream-color : #e1d7cc;
+  --cream-color : #eae7e3;
   background-color: var(--middle-blue);
   color: var(--dark-blue);
   font-family: sans-serif;
