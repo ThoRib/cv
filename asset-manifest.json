@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.26a75ea3.css",
-    "main.js": "/cv/static/js/main.433b52a4.js",
+    "main.css": "/cv/static/css/main.2cedb137.css",
+    "main.js": "/cv/static/js/main.b62ce0db.js",
     "static/media/site-perso.jpg": "/cv/static/media/site-perso.c3e3c4374acf88e558d9.jpg",
     "static/media/site-atelier3d.jpg": "/cv/static/media/site-atelier3d.10245d33cb87f00ccb9e.jpg",
     "static/media/site-photos.jpg": "/cv/static/media/site-photos.320d62b2a0fce2caf9cc.jpg",
     "static/media/site-bloc-2-notes.jpg": "/cv/static/media/site-bloc-2-notes.239d83e4bd3e68aa15a9.jpg",
-    "static/media/photo-id.jpg": "/cv/static/media/photo-id.52cdc3abf40ad3827bdc.jpg",
+    "static/media/photo-id.jpg": "/cv/static/media/photo-id.fd432bda10f30fdbf4ba.jpg",
     "static/media/wilber-big.png": "/cv/static/media/wilber-big.9ef063754317d4d2c3ee.png",
     "static/media/mysql.svg": "/cv/static/media/mysql.7618eff6c7997ea6f658486afebb98ce.svg",
     "static/media/sass.svg": "/cv/static/media/sass.ed09886ca77b26707df68f9bd50ad8a0.svg",
@@ -40,11 +40,11 @@
     "static/media/linkedin.svg": "/cv/static/media/linkedin.2747a17a57b0584bbb7daf7c76a42bf7.svg",
     "static/media/email.svg": "/cv/static/media/email.8be43040975008e6ea1c279c25b6e1e4.svg",
     "static/media/round-black-right-arrow.svg": "/cv/static/media/round-black-right-arrow.2582a8e2b607a853946fdd5dcbac163e.svg",
-    "main.26a75ea3.css.map": "/cv/static/css/main.26a75ea3.css.map",
-    "main.433b52a4.js.map": "/cv/static/js/main.433b52a4.js.map"
+    "main.2cedb137.css.map": "/cv/static/css/main.2cedb137.css.map",
+    "main.b62ce0db.js.map": "/cv/static/js/main.b62ce0db.js.map"
   },
   "entrypoints": [
-    "static/css/main.26a75ea3.css",
-    "static/js/main.433b52a4.js"
+    "static/css/main.2cedb137.css",
+    "static/js/main.b62ce0db.js"
   ]
 }
